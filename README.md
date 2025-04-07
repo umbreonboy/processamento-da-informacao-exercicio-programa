@@ -5,10 +5,10 @@ mente o programa deve solicitar ao usuário qual a moeda base a
 ser utilizada. O usuário deverá fornecer uma sigla válida de moeda. Em
 seguida, o programa deve pedir ao usuário para digitar o número correspon
 dente à operação desejada:
-0. Encerrar o programa
-1. Salvar em um arquivo .txt o câmbio entre [moeda_base] e todas as moedas
+- Encerrar o programa
+- Salvar em um arquivo .txt o câmbio entre [moeda_base] e todas as moedas
 disponíveis no dia atual.
-2. Selecionar uma moeda desejada para conversão em relação a [moeda_base]
+- Selecionar uma moeda desejada para conversão em relação a [moeda_base]
 Se o usuário digitar 2, o programa deve solicitar ao usuário para digitar
 a moeda desejada para conversão e em seguida deve mostrar as seguintes
 opções:
